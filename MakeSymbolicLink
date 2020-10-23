@@ -1,0 +1,30 @@
+
+Symbolic Link:
+
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testbackoffice" "C:\Users\vinodsharma\Documents\code_base\test\test\testbackoffice"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testcockpits" "C:\Users\vinodsharma\Documents\code_base\test\test\testcockpits"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testcore" "C:\Users\vinodsharma\Documents\code_base\test\test\testcore"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testfacades" "C:\Users\vinodsharma\Documents\code_base\test\test\testfacades"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testintegration" "C:\Users\vinodsharma\Documents\code_base\test\test\testintegration"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testkount" "C:\Users\vinodsharma\Documents\code_base\test\test\testkount"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\teststorefront" "C:\Users\vinodsharma\Documents\code_base\test\test\teststorefront"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testvalutec" "C:\Users\vinodsharma\Documents\code_base\test\test\testvalutec"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\hybrispopupfixaddon" "C:\Users\vinodsharma\Documents\code_base\test\test\hybrispopupfixaddon"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\paypal" "C:\Users\vinodsharma\Documents\code_base\test\test\paypal"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\paypalacceleratorfacades" "C:\Users\vinodsharma\Documents\code_base\test\test\paypalacceleratorfacades"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\paypalcscockpit" "C:\Users\vinodsharma\Documents\code_base\test\test\paypalcscockpit"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\paypalfacades" "C:\Users\vinodsharma\Documents\code_base\test\test\paypalfacades"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\paypalngaddon" "C:\Users\vinodsharma\Documents\code_base\test\test\paypalngaddon"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\vertexapi" "C:\Users\vinodsharma\Documents\code_base\test\test\vertexapi"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\vertexbackoffice" "C:\Users\vinodsharma\Documents\code_base\test\test\vertexbackoffice"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\vertexhmc" "C:\Users\vinodsharma\Documents\code_base\test\test\vertexhmc"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\vertextaxcalculation" "C:\Users\vinodsharma\Documents\code_base\test\test\vertextaxcalculation"
+
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testcommercewebservices" "C:\Users\vinodsharma\Documents\code_base\test\test\testcommercewebservices"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\test-fe" "C:\Users\vinodsharma\Documents\code_base\test\test\test-fe"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testfulfilmentprocess" "C:\Users\vinodsharma\Documents\code_base\test\test\testfulfilmentprocess"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\testinitialdata" "C:\Users\vinodsharma\Documents\code_base\test\test\testinitialdata"
+mklink /d "C:\Hybris_test\hybris\bin\custom\test\dbanalysis" "C:\Users\vinodsharma\Documents\code_base\test\test\dbanalysis"
+
+
+
